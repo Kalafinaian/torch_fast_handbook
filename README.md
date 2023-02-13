@@ -1,5 +1,1 @@
-# Thest jupyter notebooks could help you how to use pytorch faster.
-
-## 
-
-## 
+[01 Base Configuration of pytorch](./01_base_config.ipynb)
